@@ -16,6 +16,7 @@
 		<module>kafka-common</module>
         <module>kafka-wikimedia-producer</module>
         <module>kafka-wikimedia-comsumer</module>
+        <module>kafka-stream</module>
     </modules>
 	<packaging>pom</packaging>
 	<description>Spring With Kafka Project</description>
